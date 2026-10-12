@@ -1,0 +1,6 @@
+6395;Mohamed Ali;student1@ams.com
+7463;Sara Hassan;student2@ams.com
+7712;Omar Khaled;student3@ams.com
+8962;Mona Adel;student4@ams.com
+3057;Youssef Samir;student5@ams.com
+6224;ahmed;ahmed@gmail.com

@@ -1,0 +1,2 @@
+720448;System Admin;admin@ams.com;admin123
+788787;System Admin;mohamed@ams.com;admin153
